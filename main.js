@@ -391,4 +391,4 @@ showFontsArrow.addEventListener("click", showHideFontCard);
 fontCard.addEventListener("click", changeFont);
 document.addEventListener("click", hideFontCardOnClickOutside);
 
-initApp();
+
